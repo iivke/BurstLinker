@@ -1,16 +1,16 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.novoda.bintray-release'
+//apply plugin: 'com.novoda.bintray-release'
 
 ext {
     VERSION_NAME = rootProject.ext.burstLinkerVer
 }
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 31
     buildToolsVersion '28.0.3'
     defaultConfig {
-        minSdkVersion 14
-        targetSdkVersion 28
+        minSdkVersion 21
+        targetSdkVersion 31
         versionCode 1
         versionName VERSION_NAME.toString()
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"

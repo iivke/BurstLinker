@@ -1,0 +1,20 @@
+# ninja log v5
+1	676	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/Logger.cpp.o	7e1e999e27ec75da
+2	870	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/NoDitherer.cpp.o	7ba11e5e8acf2fb2
+3	889	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/M2Ditherer.cpp.o	2384a4d5c0f582e3
+3	893	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/BayerDitherer.cpp.o	a4df0b68e2ecf38f
+6	905	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/UniformQuantizer.cpp.o	7d428b4c9c357a5c
+4	937	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/NeuQuant.cpp.o	6a2dd1278354d8e5
+1	943	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/GifBlockWriter.cpp.o	544387a22739ed3c
+5	951	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/FloydSteinbergDitherer.cpp.o	99964334aca08305
+1	953	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/LzwEncoder.cpp.o	e634898537b9b6dd
+0	959	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/KDTree.cpp.o	4688ff57e60b86fe
+6	967	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/OctreeQuantizer.cpp.o	e6d970e1c29cdc53
+0	1260	1732693732	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/GifEncoder.cpp.o	a3161569b2b5a9d6
+676	1319	1732693733	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/KMeansQuantizer.cpp.o	6e628ee8aea6c5af
+893	1329	1732693733	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/NeuQuantQuantizer.cpp.o	663583ed9774c86f
+871	1415	1732693733	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/MedianCutQuantizer.cpp.o	ad3be1b185144ed9
+889	1455	1732693733	CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/RandomQuantizer.cpp.o	de05c51f6b9abfef
+906	1627	1732693733	CMakeFiles/BurstLinker.dir/src/main/cpp/BurstLinker.cpp.o	506f3876adbb910a
+1627	1756	1732693733	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libBurstLinker.so	b880d4dd2e20511a
+0	20	0	clean	aac45fc207b02aa4

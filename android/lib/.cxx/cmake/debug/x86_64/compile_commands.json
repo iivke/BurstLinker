@@ -1,0 +1,103 @@
+[
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/GifEncoder.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/GifEncoder.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/GifEncoder.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/GifBlockWriter.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/GifBlockWriter.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/GifBlockWriter.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/KDTree.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/KDTree.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/KDTree.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/LzwEncoder.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/LzwEncoder.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/LzwEncoder.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/Logger.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/Logger.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/Logger.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/NoDitherer.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/NoDitherer.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/NoDitherer.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/BayerDitherer.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/BayerDitherer.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/BayerDitherer.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/M2Ditherer.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/M2Ditherer.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/M2Ditherer.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/FloydSteinbergDitherer.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/FloydSteinbergDitherer.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/FloydSteinbergDitherer.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/OctreeQuantizer.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/OctreeQuantizer.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/OctreeQuantizer.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/UniformQuantizer.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/UniformQuantizer.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/UniformQuantizer.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/KMeansQuantizer.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/KMeansQuantizer.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/KMeansQuantizer.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/MedianCutQuantizer.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/MedianCutQuantizer.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/MedianCutQuantizer.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/RandomQuantizer.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/RandomQuantizer.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/RandomQuantizer.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/NeuQuant.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/NeuQuant.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/NeuQuant.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/Users/vke/Work/FBSocial/BurstLinker/src/NeuQuantQuantizer.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/src/NeuQuantQuantizer.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/src/NeuQuantQuantizer.cpp"
+},
+
+{
+  "directory": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug/x86_64",
+  "command": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -fno-rtti -fno-exceptions -fno-limit-debug-info  -fPIC   -Wno-format-security -Wno-delete-non-virtual-dtor -o CMakeFiles/BurstLinker.dir/src/main/cpp/BurstLinker.cpp.o -c /Users/vke/Work/FBSocial/BurstLinker/android/lib/src/main/cpp/BurstLinker.cpp",
+  "file": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/src/main/cpp/BurstLinker.cpp"
+}
+]

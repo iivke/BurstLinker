@@ -1,0 +1,130 @@
+{
+  "stringTable": {
+    "0": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug_native/x86",
+    "1": "--target=i686-none-linux-android21 --sysroot=/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBurstLinker_EXPORTS -D__AndroidLog__ -D__SIMD__ -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++14 -fno-rtti -fno-exceptions -O3 -DNDEBUG -fPIC -Wno-format-security -Wno-delete-non-virtual-dtor"
+  },
+  "buildFiles": [
+    "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/build/cmake/compiler_id.cmake",
+    "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/build/cmake/platforms.cmake",
+    "/Users/vke/Work/FBSocial/BurstLinker/android/lib/CMakeLists.txt",
+    "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/vke/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug_native/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/vke/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug_native/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "BurstLinker-Release-x86": {
+      "buildCommand": "/Users/vke/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/debug_native/x86\" BurstLinker",
+      "buildType": "release",
+      "toolchain": "2025201539",
+      "abi": "x86",
+      "artifactName": "BurstLinker",
+      "files": [
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/GifEncoder.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/GifBlockWriter.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/KDTree.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/LzwEncoder.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/Logger.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/NoDitherer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/BayerDitherer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/M2Ditherer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/FloydSteinbergDitherer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/OctreeQuantizer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/UniformQuantizer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/KMeansQuantizer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/MedianCutQuantizer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/RandomQuantizer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/NeuQuant.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/src/NeuQuantQuantizer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/src/main/cpp/BurstLinker.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/vke/Work/FBSocial/BurstLinker/src/ThreadPool.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/build/intermediates/cmake/debug_native/obj/x86/libBurstLinker.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "2025201539": {
+      "cppCompilerExecutable": "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake",
+    "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/build/cmake/compiler_id.cmake",
+    "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/build/cmake/platforms.cmake",
+    "/Users/vke/Work/FBSocial/BurstLinker/android/lib/CMakeLists.txt",
+    "/Users/vke/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/vke/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/vke/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "BurstLinker-Release-x86_64": {
+      "artifactName": "BurstLinker",
+      "buildCommand": "/Users/vke/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/vke/Work/FBSocial/BurstLinker/android/lib/.cxx/cmake/release/x86_64\" BurstLinker",
+      "abi": "x86_64",
+      "output": "/Users/vke/Work/FBSocial/BurstLinker/android/lib/build/intermediates/cmake/release/obj/x86_64/libBurstLinker.so",
+      "runtimeFiles": []
+    }
+  }
+}
